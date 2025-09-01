@@ -22,6 +22,10 @@ This is a practical course on aligning language models for your specific use cas
 
 We can discuss the process in this [discussion thread](https://github.com/huggingface/smol-course/discussions/2#discussion-7602932).
 
+## Future of this course
+
+This course will soon be re-released on Hugging Face Learn! Stay tuned for updates.
+
 ## Course Outline
 
 This course provides a practical, hands-on approach to working with small language models, from initial training through to production deployment.
